@@ -79,7 +79,7 @@ padding: 20px;
   height: 25rem;
   object-fit: cover;
   border-radius: 50%;
-  border: 0.7rem dotted darkblue;
+  border: 0.7rem solid darkblue;
   background-color: rgba(255, 255, 255, 0.7);
   padding: 0.5rem;
   opacity: 0.9;
